@@ -1,4 +1,4 @@
-# Models of Model Uncertainty
+# Models of Model Uncertainties
 
 This repository provides an overview of core techniques for uncertainty quantification (UQ) in machine learning models. These methods are critical when predictions must be reliable, interpretable, and decision-aware, especially in high-stakes domains such as finance, healthcare, energy, and large-scale operations.
 
